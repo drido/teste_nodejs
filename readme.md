@@ -17,7 +17,7 @@ Abaixo, detalhes e obrigações de cada Server.
 <h3>Server2</h3>
  FTP ou AMQP: Local onde os dados que serão consumidos devem estar.
 
-*Os dados devem estar no formato CSV ou Json. Em anexo arquivo com os dados para o teste.
+*Os dados devem estar no formato CSV ou Json. Baixe <a href=https://cl.ly/29487ecc6d6c>aqui</a> o arquivo com os dados para o teste.
 
  
 
