@@ -1,5 +1,5 @@
 
-<h3>Tarefa: Desenvolver 4 Servers integrados utilizando Docker. A aplicação consiste em: Um banco de dados, uma fila ou ftp para servir os dados, um cosumidor para consumer os dados da fila/ftp e uma API para consultar os dados do banco de dados.<h3>
+<h3>Tarefa: Desenvolver 4 Servers integrados utilizando Docker. A aplicação consiste em: Um banco de dados, uma fila ou ftp para servir os dados, um cosumidor para consumer os dados da fila/ftp e uma API para consultar os dados do banco de dados.</h3>
 
  
 
